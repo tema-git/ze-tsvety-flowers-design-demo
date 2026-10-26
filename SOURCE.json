@@ -1,0 +1,79 @@
+{
+  "company": "Ze Цветы",
+  "category": "Цветочная лавка / подарки",
+  "spreadsheet_row": 17,
+  "source_list_index": 15,
+  "address": "Москва, 9-я Парковая улица, 59 к3",
+  "phone": "+79035610716",
+  "email": "zeynabka92@mail.ru",
+  "telegram": null,
+  "socials": [],
+  "map_url": "https://yandex.ru/maps/org/ze_tsvety/175205113355/",
+  "checked_date": "2026-10-26",
+  "source_list_record": {
+    "company": "Ze Цветы",
+    "category": "Цветочная лавка / подарки",
+    "city": "Москва",
+    "address": "9-я Парковая улица, 59 к3",
+    "email": "zeynabka92@mail.ru",
+    "phone": "+79035610716",
+    "phone_type": "Публичный общий рабочий телефон организации",
+    "contact_name_role": "",
+    "listing_url": "https://urbanplaces.su/ru_moskva/moskva/card-70000001084282710-ze-tsvety",
+    "social_url": "",
+    "contact_source": "https://urbanplaces.su/ru_moskva/moskva/card-70000001084282710-ze-tsvety",
+    "no_site_evidence": "На 21.10.2026 в исходной карточке самостоятельный сайт не указан; выполнен отдельный поиск по названию и адресу. В полученной выдаче самостоятельный сайт не обнаружен. Поиск показал две точки с единым телефоном на 9-й Парковой; самостоятельный сайт не найден.",
+    "checked_urls": "https://urbanplaces.su/ru_moskva/moskva/card-70000001084282710-ze-tsvety\nhttps://urbanplaces.su/ru_moskva/moskva/address-9-ia-parkovaia-ulitsa-32",
+    "search_query": "Ze Цветы Москва 9-я Парковая 59 к3 сайт",
+    "check_date": "21.10.2026",
+    "confidence": "Средняя: публичные контакты подтверждены; отсутствие сайта установлено по результатам поиска, без гарантии полноты индекса.",
+    "_source_file": "no_site_food_retail.json",
+    "_order": 1
+  },
+  "sources": [
+    {
+      "url": "https://yandex.com/maps/org/ze_tsvety/175205113355/",
+      "supports": [
+        "name",
+        "phone",
+        "address"
+      ],
+      "observation": "Live listing retrieved by web tool; no ownsite link in contact section."
+    },
+    {
+      "url": "https://www.bebeshka.info/moskva/ze-tsvety-1141049/",
+      "supports": [
+        "name",
+        "phone",
+        "address"
+      ],
+      "observation": "Live page matches company, phone and source-list branch 59 к3."
+    },
+    {
+      "url": "https://xn--n1alf.xn--24-6kci4amthgkj1f.xn--80asehdb/москва/организация_ze-цветы-магазин-цветов-и-подарков",
+      "supports": [
+        "email",
+        "phone",
+        "branch_address"
+      ],
+      "observation": "Public directory matches phone, publishes email and shows branch at 59 к3; primary entry at32 is a different branch."
+    }
+  ],
+  "no_site_evidence": "Searches by exact company name, Moscow address, phone variants, email and site:clients.site found directory/map listings but no ownsite. Search absence is not proof of absolute absence.",
+  "search_queries": [
+    "\"Ze Цветы\" \"Парковая\"",
+    "\"Ze Цветы\" сайт",
+    "\"79035610716\"",
+    "\"zeynabka92@mail.ru\"",
+    "\"Ze Цветы\" \"clients.site\"",
+    "\"Ze Цветы\" site:clients.site",
+    "\"561-07-16\" \"цветы\" сайт",
+    "\"zeynabka92\" цветы"
+  ],
+  "limitations": [
+    "Email delivery not tested and no outreach sent.",
+    "Telegram/social not found; inherited Telegram and VK links removed.",
+    "Public hours conflict; demo directs users to confirm hours by telephone.",
+    "Ownsite not found in public search as of check date; no claim that absence is certain."
+  ]
+}
